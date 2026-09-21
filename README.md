@@ -40,7 +40,7 @@ One row per tool, one column per thing people actually check before committing. 
 | **[Wireflow](#1-wireflow)** | Hosted MCP; see official connector setup | Yes | [check](https://www.wireflow.ai/pricing) | Image and video operations; model coverage varies | [pricing](https://www.wireflow.ai/pricing) | — |
 | **[Flora AI](#2-flora-ai)** | Hosted MCP with OAuth | Yes | — | Image and video operations; model coverage varies | — | — |
 | **[Freepik Spaces](#3-freepik-spaces)** | Magnific hosted MCP; follow current official setup | Yes | — | Image and video operations; model coverage varies | — | — |
-| **[ComfyUI](#4-comfyui)** | — | Yes | — | Image and video operations; model coverage varies | — | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) — 134,132 ★, v0.36.0 |
+| **[ComfyUI](#4-comfyui)** | — | Yes | — | Image and video operations; model coverage varies | — | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) — 134,234 ★, v0.37.0 |
 | **[RunComfy](#5-runcomfy)** | Official MCP for deployments | Yes | — | Image operations; see documented model and format support | — | — |
 | **[Higgsfield](#6-higgsfield)** | — | Yes | — | Image and video operations; model coverage varies | — | — |
 <!-- DATA-TABLE:END -->
