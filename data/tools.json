@@ -1,0 +1,229 @@
+{
+  "keyword": "weavy ai api",
+  "title": "Weavy AI API alternatives: callable creative workflows",
+  "lastChecked": "2026-09-21",
+  "capabilityChecks": [
+    {
+      "key": "restApi",
+      "label": "REST API"
+    },
+    {
+      "key": "workflowExecutionApi",
+      "label": "Workflow execution API"
+    },
+    {
+      "key": "visualGraph",
+      "label": "Visual graph"
+    },
+    {
+      "key": "selfHostedRuntime",
+      "label": "Self-hosted runtime"
+    }
+  ],
+  "tools": [
+    {
+      "n": 1,
+      "name": "Wireflow",
+      "tagline": null,
+      "homepage": "https://www.wireflow.ai",
+      "docs": "https://www.wireflow.ai/docs",
+      "pricing": "https://www.wireflow.ai/pricing",
+      "claudeConnection": "Hosted MCP; see official connector setup",
+      "restApi": true,
+      "modelSupport": "Image and video operations; model coverage varies",
+      "freeTier": "unverified",
+      "repo": null,
+      "note": "Documentation review 2026-09-21; product/account behaviour was not tested.",
+      "quickstart": [
+        {
+          "label": "Setup reference: follow the official authentication and request guide. This is a documentation URL, not an executed API example.",
+          "lang": "text",
+          "code": "https://www.wireflow.ai/docs"
+        }
+      ],
+      "capabilities": {
+        "restApi": true,
+        "workflowExecutionApi": true,
+        "visualGraph": true,
+        "selfHostedRuntime": null
+      },
+      "live": {
+        "stars": null,
+        "lastPush": null,
+        "latestRelease": null,
+        "latestReleaseDate": null,
+        "checkedAt": null
+      }
+    },
+    {
+      "n": 2,
+      "name": "Flora AI",
+      "tagline": null,
+      "homepage": "https://flora.ai",
+      "docs": "https://developer.flora.ai/api/",
+      "pricing": null,
+      "claudeConnection": "Hosted MCP with OAuth",
+      "restApi": true,
+      "modelSupport": "Image and video operations; model coverage varies",
+      "freeTier": "unverified",
+      "repo": null,
+      "note": "Documentation review 2026-09-21; product/account behaviour was not tested.",
+      "quickstart": [
+        {
+          "label": "Official CLI installation; this installs software but submits no generation:",
+          "lang": "bash",
+          "code": "go install github.com/florafauna-ai/flora-cli/cmd/flora@latest"
+        }
+      ],
+      "capabilities": {
+        "restApi": true,
+        "workflowExecutionApi": true,
+        "visualGraph": true,
+        "selfHostedRuntime": null
+      },
+      "live": {
+        "stars": null,
+        "lastPush": null,
+        "latestRelease": null,
+        "latestReleaseDate": null,
+        "checkedAt": null
+      }
+    },
+    {
+      "n": 3,
+      "name": "Freepik Spaces",
+      "tagline": null,
+      "homepage": "https://www.magnific.com/spaces",
+      "docs": "https://docs.magnific.com/introduction",
+      "pricing": null,
+      "claudeConnection": "Magnific hosted MCP; follow current official setup",
+      "restApi": true,
+      "modelSupport": "Image and video operations; model coverage varies",
+      "freeTier": "unverified",
+      "repo": null,
+      "note": "Documentation review 2026-09-21; product/account behaviour was not tested. The older indexed Apps API guide returned 404 after redirecting to Magnific on 2026-09-21. Current full-workflow REST execution was not established in this review; this is uncertainty, not a claim that the capability is absent.",
+      "quickstart": [
+        {
+          "label": "Setup reference: follow the official authentication and request guide. This is a documentation URL, not an executed API example.",
+          "lang": "text",
+          "code": "https://docs.magnific.com/introduction"
+        }
+      ],
+      "capabilities": {
+        "restApi": true,
+        "workflowExecutionApi": null,
+        "visualGraph": true,
+        "selfHostedRuntime": null
+      },
+      "live": {
+        "stars": null,
+        "lastPush": null,
+        "latestRelease": null,
+        "latestReleaseDate": null,
+        "checkedAt": null
+      }
+    },
+    {
+      "n": 4,
+      "name": "ComfyUI",
+      "tagline": null,
+      "homepage": "https://www.comfy.org",
+      "docs": "https://docs.comfy.org",
+      "pricing": null,
+      "claudeConnection": null,
+      "restApi": true,
+      "modelSupport": "Image and video operations; model coverage varies",
+      "freeTier": "unverified",
+      "repo": "Comfy-Org/ComfyUI",
+      "note": "Documentation review 2026-09-21; product/account behaviour was not tested. ComfyUI has both local and hosted routes. Downloadable software does not make GPU use, hosted services or every model licence free.",
+      "quickstart": [
+        {
+          "label": "Setup reference: follow the official authentication and request guide. This is a documentation URL, not an executed API example.",
+          "lang": "text",
+          "code": "https://docs.comfy.org"
+        }
+      ],
+      "capabilities": {
+        "restApi": true,
+        "workflowExecutionApi": true,
+        "visualGraph": true,
+        "selfHostedRuntime": true
+      },
+      "live": {
+        "stars": 134132,
+        "lastPush": "2026-09-21T00:24:02Z",
+        "latestRelease": "v0.36.0",
+        "latestReleaseDate": "2026-09-15",
+        "checkedAt": "2026-09-21"
+      }
+    },
+    {
+      "n": 5,
+      "name": "RunComfy",
+      "tagline": null,
+      "homepage": "https://www.runcomfy.com",
+      "docs": "https://docs.runcomfy.com",
+      "pricing": null,
+      "claudeConnection": "Official MCP for deployments",
+      "restApi": true,
+      "modelSupport": "Image operations; see documented model and format support",
+      "freeTier": "unverified",
+      "repo": null,
+      "note": "Documentation review 2026-09-21; product/account behaviour was not tested.",
+      "quickstart": [
+        {
+          "label": "Setup reference: follow the official authentication and request guide. This is a documentation URL, not an executed API example.",
+          "lang": "text",
+          "code": "https://docs.runcomfy.com"
+        }
+      ],
+      "capabilities": {
+        "restApi": true,
+        "workflowExecutionApi": true,
+        "visualGraph": true,
+        "selfHostedRuntime": null
+      },
+      "live": {
+        "stars": null,
+        "lastPush": null,
+        "latestRelease": null,
+        "latestReleaseDate": null,
+        "checkedAt": null
+      }
+    },
+    {
+      "n": 6,
+      "name": "Higgsfield",
+      "tagline": null,
+      "homepage": "https://higgsfield.ai",
+      "docs": "https://docs.higgsfield.ai/docs",
+      "pricing": null,
+      "claudeConnection": null,
+      "restApi": true,
+      "modelSupport": "Image and video operations; model coverage varies",
+      "freeTier": "unverified",
+      "repo": null,
+      "note": "Documentation review 2026-09-21; product/account behaviour was not tested.",
+      "quickstart": [
+        {
+          "label": "Setup reference: follow the official authentication and request guide. This is a documentation URL, not an executed API example.",
+          "lang": "text",
+          "code": "https://docs.higgsfield.ai/docs"
+        }
+      ],
+      "capabilities": {
+        "restApi": true,
+        "workflowExecutionApi": null,
+        "visualGraph": null,
+        "selfHostedRuntime": null
+      },
+      "live": {
+        "stars": null,
+        "lastPush": null,
+        "latestRelease": null,
+        "latestReleaseDate": null,
+        "checkedAt": null
+      }
+    }
+  ]
+}
