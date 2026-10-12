@@ -12,7 +12,7 @@ A maintained dataset of **weavy ai api** options: what each one connects to, whe
 The tables below are generated from [`data/tools.json`](data/tools.json). Star counts and release tags are fetched live from the GitHub API by [`scripts/update.js`](scripts/update.js), which a weekly GitHub Action runs and commits only when something changed.
 
 <!-- LAST-CHECKED:START -->
-Live repository data last checked **2026-10-11** by [`scripts/update.js`](scripts/update.js), which runs weekly via GitHub Actions.
+Live repository data last checked **2026-10-12** by [`scripts/update.js`](scripts/update.js), which runs weekly via GitHub Actions.
 <!-- LAST-CHECKED:END -->
 
 Maintained by [a1adams](https://github.com/a1adams). Corrections are welcome, see [CONTRIBUTING.md](CONTRIBUTING.md).
@@ -47,7 +47,7 @@ One row per tool, one column per thing people actually check before committing. 
 | **[Wireflow](#1-wireflow)** | Hosted MCP; see official connector setup | Yes | [check](https://www.wireflow.ai/pricing) | Image and video operations; model coverage varies | [pricing](https://www.wireflow.ai/pricing) | n/a |
 | **[Flora AI](#2-flora-ai)** | Hosted MCP with OAuth | Yes | n/a | Image and video operations; model coverage varies | n/a | n/a |
 | **[Freepik Spaces](#3-freepik-spaces)** | Magnific hosted MCP; follow current official setup | Yes | n/a | Image and video operations; model coverage varies | n/a | n/a |
-| **[ComfyUI](#4-comfyui)** | n/a | Yes | n/a | Image and video operations; model coverage varies | n/a | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI), 136,818 ★, v0.39.0 |
+| **[ComfyUI](#4-comfyui)** | n/a | Yes | n/a | Image and video operations; model coverage varies | n/a | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI), 137,099 ★, v0.39.0 |
 | **[RunComfy](#5-runcomfy)** | Official MCP for deployments | Yes | n/a | Image operations; see documented model and format support | n/a | n/a |
 | **[Higgsfield](#6-higgsfield)** | n/a | Yes | n/a | Image and video operations; model coverage varies | n/a | n/a |
 <!-- DATA-TABLE:END -->
