@@ -1,7 +1,7 @@
 {
   "keyword": "weavy ai api",
   "title": "Weavy AI API alternatives: callable creative workflows",
-  "lastChecked": "2026-11-09",
+  "lastChecked": "2026-11-16",
   "capabilityChecks": [
     {
       "key": "restApi",
@@ -152,11 +152,11 @@
         "selfHostedRuntime": true
       },
       "live": {
-        "stars": 145942,
-        "lastPush": "2026-11-09T16:01:29Z",
-        "latestRelease": "v0.44.0",
-        "latestReleaseDate": "2026-11-04",
-        "checkedAt": "2026-11-09"
+        "stars": 147158,
+        "lastPush": "2026-11-16T07:16:01Z",
+        "latestRelease": "v0.45.0",
+        "latestReleaseDate": "2026-11-10",
+        "checkedAt": "2026-11-16"
       }
     },
     {
